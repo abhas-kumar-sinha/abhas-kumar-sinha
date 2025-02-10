@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhas-kumar-sinha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on my Semester Management Web Repository
+- 🌱 I’m currently learning NextJs
+- 💞️ I’m looking to collaborate on my Gitdocs ai Repository
 - 📫 You can reach me at my email - abhas.kumar22027@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
