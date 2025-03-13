@@ -1,7 +1,5 @@
 # Hi, I'm Abhas Kumar Sinha 👋
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-500k+-blue)
-
 ## About Me
 
 - 👀 I’m deeply interested in **Web Development**, particularly in creating efficient and user-friendly web applications.
