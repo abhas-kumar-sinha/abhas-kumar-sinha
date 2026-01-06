@@ -13,7 +13,7 @@
 
 ## Projects and Collaboration
 
-- 💞️ I’m looking to collaborate on my [Gitdocs ai Repository](https://github.com/abhas-kumar-sinha/Gitdocs). I am passionate about open source and believe in the power of collaborative projects. Feel free to reach out if you have exciting ideas or want to contribute!
+- 💞️ I’m looking to collaborate on my [Gitdocs ai Repository](https://github.com/abhas-kumar-sinha/gitdocs-ai-v2.0). I am passionate about open source and believe in the power of collaborative projects. Feel free to reach out if you have exciting ideas or want to contribute!
 
 ## Contact
 
