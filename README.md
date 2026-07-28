@@ -1,47 +1,69 @@
-# Hi, I'm Abhas Kumar Sinha 👋
+# Hi there, I'm Abhas Kumar Sinha 👋
 
-## About Me
+**Student @ IIT Delhi • Full-Stack Developer • AI & Backend Enthusiast**
 
-- 👀 I’m deeply interested in **Web Development**, particularly in creating efficient and user-friendly web applications.
-- 🌱 I’m currently expanding my skills and learning **Next.js** to build modern, performant web applications.
-
-## Skills
-
-- Languages: `JavaScript`, `HTML`, `CSS`
-- Frameworks/Libraries: `Next.js`, `React`
-- Tools: `Git`, `GitHub`, `VS Code`
-
-## Projects and Collaboration
-
-- 💞️ I’m looking to collaborate on my [Gitdocs ai Repository](https://github.com/abhas-kumar-sinha/gitdocs-ai-v2.0). I am passionate about open source and believe in the power of collaborative projects. Feel free to reach out if you have exciting ideas or want to contribute!
-
-## Contact
-
-- 📫 You can reach me via email at [abhas.kumar22027@gmail.com](mailto:abhas.kumar22027@gmail.com)
-
-## Pronouns
-
-- 😄 He/Him
-
-## Fun Fact
-
-- ⚡ Fun fact: I love exploring new technologies and experimenting with code to create innovative solutions.
-
-## Badges
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=abhas-kumar-sinha)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhas-kumar-sinha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-## Let's Connect
-
-<p align="left">
-<a href="https://www.linkedin.com/in/abhas-kumar-sinha-b23038317/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhas kumar sinha" height="30" width="40" /></a>
-</p>
+I'm passionate about building scalable web applications, developer tools, and AI-powered products. I enjoy working across the stack, from designing performant frontend experiences to building backend systems and cloud infrastructure.
 
 ---
 
-<!---
-abhas-kumar-sinha/abhas-kumar-sinha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 Featured Project
+
+### 🌟 GitDocs AI
+
+An AI-powered SaaS platform that generates and enhances GitHub repository documentation using LLMs and repository context.
+
+**Highlights**
+- 🤖 AI-generated README creation
+- 📂 Repository analysis
+- 🔍 Context-aware documentation
+- 🔗 GitHub integration
+- ☁️ Modern SaaS architecture
+
+---
+
+## 🛠 Tech Stack
+
+**Languages:** TypeScript • JavaScript • C++ • Python • SQL
+
+**Frontend:** React • Next.js • Vite • TanStack Start • Tailwind CSS
+
+**Backend:** Node.js • Express • Fastify • Flask • tRPC
+
+**Databases:** PostgreSQL • MySQL • MongoDB • Supabase • Neon
+
+**AI & APIs:** OpenAI • Google Gemini • REST • GraphQL
+
+**Cloud & DevOps:** Docker • GitHub Actions • Vercel • Render • Cloudflare • Cloudflare R2
+
+**Tools:** Git • Prisma • Drizzle ORM • Clerk • Keycloak • Linux
+
+---
+
+## 🌱 Interests
+
+- Backend Engineering
+- AI Applications
+- Cloud Infrastructure
+- Developer Tools
+- Open Source
+
+---
+
+## 🤝 Collaboration
+
+I'm always open to collaborating on AI products, developer tools, open-source projects, and scalable full-stack applications.
+
+---
+
+## 📫 Connect
+
+- **Email:** <abhas.kumar22027@gmail.com>
+- **LinkedIn:** https://www.linkedin.com/in/abhas-kumar-sinha-b23038317/
+
+---
+
+## 📊 GitHub Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abhas-kumar-sinha)](https://git.io/streak-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhas-kumar-sinha&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
